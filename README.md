@@ -1,2 +1,3 @@
 # Clustering
-Short Clustering Project
+
+A short customer segmentation project.
